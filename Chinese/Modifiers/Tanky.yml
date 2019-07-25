@@ -1,0 +1,19 @@
+Tanky:
+  allowed: true
+  name: 肉盾
+  name_modifier: 浸血黑曜石
+  modifier_item: OBSIDIAN
+  description: 让你更加抗揍!
+  description_modifier: '%WHITE%肉盾模块, 适用于护甲.'
+  Color: '%DARK_GRAY%'
+  MaxLevel: 5
+  HealthPerLevel: 4
+  Recipe:
+    Enabled: true
+    Top: RBR
+    Middle: BOB
+    Bottom: RBR
+    Materials:
+      B: BONE
+      R: ROTTEN_FLESH
+      O: OBSIDIAN

@@ -1,0 +1,16 @@
+Haste:
+  allowed: true
+  name: 急迫
+  name_modifier: 压缩红石块
+  modifier_item: REDSTONE_BLOCK
+  description: 工具可以更快速地破坏方块!
+  description_modifier: '%WHITE%急迫模块, 适用于任何工具(包括钓竿)'
+  Color: '%DARK_RED%'
+  MaxLevel: 5
+  Recipe:
+    Enabled: true
+    Top: RRR
+    Middle: RRR
+    Bottom: RRR
+    Materials:
+      R: REDSTONE_BLOCK

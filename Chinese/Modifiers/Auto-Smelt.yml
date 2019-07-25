@@ -1,0 +1,24 @@
+Auto-Smelt:
+  allowed: true
+  name: 自动烧炼
+  name_modifier: 强化熔炉
+  modifier_item: FURNACE
+  description: 有几率在挖掘的时候烧炼矿物!
+  description_modifier: '%WHITE%自动烧炼模块, 适用于采掘工具.'
+  Color: '%YELLOW%'
+  MaxLevel: 5
+  PercentagePerLevel: 20
+  Sound: false
+  Particles: true
+  smelt_stone: true
+  smelt_terracotta: false
+  burn_coal: false
+  works_under_water: true
+  Recipe:
+    Enabled: true
+    Top: CCC
+    Middle: CFC
+    Bottom: CCC
+    Materials:
+      C: FURNACE
+      F: BLAZE_ROD

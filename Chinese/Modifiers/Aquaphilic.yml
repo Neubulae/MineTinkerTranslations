@@ -1,0 +1,18 @@
+Aquaphilic:
+  allowed: true
+  name: 亲水性
+  name_modifier: 海洋珍珠
+  modifier_item: HEART_OF_THE_SEA
+  description: 把水变为你的好朋友
+  description_modifier: '%WHITE%亲水性模块, 适用于头盔与靴子.'
+  Color: '%AQUA%'
+  MaxLevel: 5
+  Recipe:
+    Enabled: true
+    Top: PNP
+    Middle: NHN
+    Bottom: PNP
+    Materials:
+      H: HEART_OF_THE_SEA
+      N: NAUTILUS_SHELL
+      P: PRISMARINE_SHARD

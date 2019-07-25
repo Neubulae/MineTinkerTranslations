@@ -1,0 +1,24 @@
+Ender:
+  giveNauseaOnUse: true
+  nauseaDuration: 5
+  giveBlindnessOnUse: true
+  blindnessDuration: 3
+  allowed: true
+  name: 末影
+  name_modifier: 特化末影之眼
+  modifier_item: ENDER_EYE
+  description: 箭矢落地的时候潜行将传送你至落地位置!
+  description_modifier: '%WHITE%末影模块, 适用于远程武器.'
+  Color: '%DARK_GREEN%'
+  MaxLevel: 2
+  Sound: true
+  Particles: true
+  CompatibleWithInfinity: true
+  Recipe:
+    Enabled: true
+    Top: PPP
+    Middle: PEP
+    Bottom: PPP
+    Materials:
+      P: ENDER_PEARL
+      E: ENDER_EYE

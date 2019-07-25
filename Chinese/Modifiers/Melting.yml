@@ -1,0 +1,14 @@
+Melting:
+  allowed: true
+  name: 炽融
+  name_modifier: 附魔岩浆块
+  modifier_item: MAGMA_BLOCK
+  description: 攻击着火的敌人可以造成更多伤害! 或者着火的时候更难以受伤!
+  description_modifier: '%WHITE%炽融模块, 适用于胸甲, 护腿, 近战武器与弦类远程武器.'
+  Color: '%GOLD%'
+  MaxLevel: 3
+  EnchantCost: 10
+  BonusMultiplier: 0.1
+  CancelBurningOnArmor: true
+  Recipe:
+    Enabled: false

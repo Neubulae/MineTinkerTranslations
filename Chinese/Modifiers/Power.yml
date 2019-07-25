@@ -1,0 +1,23 @@
+Power:
+  allowed: true
+  name: 力量
+  name_modifier: 附魔绿宝石
+  modifier_item: EMERALD
+  description: 工具可以一次挖掘更多方块!
+  description_modifier: '%WHITE%力量模块, 适合采掘工具(包括锄头).'
+  Color: '%GREEN%'
+  lv1_vertical: true
+  MaxLevel: 5
+  EnchantCost: 10
+  Recipe:
+    Enabled: false
+  Blacklist:
+  - AIR
+  - BEDROCK
+  - WATER
+  - BUBBLE_COLUMN
+  - LAVA
+  - END_PORTAL
+  - END_CRYSTAL
+  - END_PORTAL_FRAME
+  - NETHER_PORTAL

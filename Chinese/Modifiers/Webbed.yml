@@ -1,0 +1,20 @@
+Webbed:
+  allowed: true
+  name: 缠网
+  name_modifier: 压缩蜘蛛网
+  modifier_item: COBWEB
+  description: 拖慢敌人!
+  description_modifier: '%WHITE%缠网模块, 适用于任何武器, 着装与钓竿.'
+  Color: '%WHITE%'
+  MaxLevel: 3
+  Duration: 60
+  Sound: true
+  DurationMultiplier: 1.2
+  EffectAmplifier: 2
+  Recipe:
+    Enabled: true
+    Top: WWW
+    Middle: WWW
+    Bottom: WWW
+    Materials:
+      W: COBWEB

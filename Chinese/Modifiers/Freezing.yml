@@ -1,0 +1,17 @@
+Freezing:
+  allowed: true
+  name: 霜冻
+  name_modifier: 冰晶
+  modifier_item: DIAMOND
+  description: 你的四周皆被冷凝.
+  description_modifier: '%WHITE%霜冻模块, 仅用于靴子.'
+  Color: '%AQUA%'
+  MaxLevel: 3
+  Recipe:
+    Enabled: true
+    Top: BBB
+    Middle: BDB
+    Bottom: BBB
+    Materials:
+      B: BLUE_ICE
+      D: DIAMOND

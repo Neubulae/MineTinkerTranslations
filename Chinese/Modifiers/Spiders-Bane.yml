@@ -1,0 +1,20 @@
+Spiders-Bane:
+  allowed: true
+  name: 节肢杀手
+  name_modifier: 干净的蜘蛛眼
+  modifier_item: FERMENTED_SPIDER_EYE
+  description: 武器对节肢生物更有效!
+  description_modifier: '%WHITE%节肢杀手模块, 适用于近战类武器.'
+  Color: '%RED%'
+  MaxLevel: 6
+  CompatibleWithSmite: true
+  CompatibleWithSharpness: true
+  Recipe:
+    Enabled: true
+    Top: ESE
+    Middle: SFS
+    Bottom: ESE
+    Materials:
+      S: STRING
+      E: SPIDER_EYE
+      F: FERMENTED_SPIDER_EYE

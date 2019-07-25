@@ -1,0 +1,21 @@
+Anti-Arrow-Plating:
+  allowed: true
+  name: 抗箭矢镀层
+  name_modifier: 防穿透性能优良的金属
+  modifier_item: IRON_BLOCK
+  description: 护甲将会削弱箭矢造成的伤害!
+  description_modifier: '%WHITE%抗箭矢镀层模块, 适用于护甲.'
+  Color: '%WHITE%'
+  MaxLevel: 5
+  CompatibleWithProtecting: true
+  CompatibleWithAntiFire: true
+  CompatibleWithAntiBlast: true
+  Recipe:
+    Enabled: true
+    Top: IAI
+    Middle: ADA
+    Bottom: IAI
+    Materials:
+      A: ARROW
+      D: DIAMOND
+      I: IRON_BLOCK

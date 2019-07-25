@@ -1,0 +1,18 @@
+Reinforced:
+  ApplyUnbreakableOnMaxLevel: true
+  HideUnbreakableFlag: true
+  allowed: true
+  name: 强化
+  name_modifier: 压缩黑曜石
+  modifier_item: OBSIDIAN
+  description: 使用工具时有几率不掉耐久!
+  description_modifier: '%WHITE%强化模块, 适用于任意模块物品.'
+  Color: '%DARK_GRAY%'
+  MaxLevel: 10
+  Recipe:
+    Enabled: true
+    Top: OOO
+    Middle: OOO
+    Bottom: OOO
+    Materials:
+      O: OBSIDIAN

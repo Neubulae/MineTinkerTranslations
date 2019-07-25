@@ -1,0 +1,17 @@
+Timber:
+  allowed: true
+  name: 伐木
+  name_modifier: 镶木绿宝石
+  modifier_item: EMERALD
+  description: 立刻砍倒树木!
+  description_modifier: '%WHITE%伐木模块, 仅用于斧头.'
+  Color: '%GREEN%'
+  MaximumBlocksPerSwing: -1
+  Recipe:
+    Enabled: true
+    Top: LLL
+    Middle: LEL
+    Bottom: LLL
+    Materials:
+      L: OAK_WOOD
+      E: EMERALD

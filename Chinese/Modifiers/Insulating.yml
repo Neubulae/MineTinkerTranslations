@@ -1,0 +1,21 @@
+Insulating:
+  allowed: true
+  name: 绝热
+  name_modifier: 绝热性能优良的合金
+  modifier_item: MAGMA_CREAM
+  description: 护甲将会削弱火焰造成的伤害!
+  description_modifier: '%WHITE%绝热模块, 适用于护甲.'
+  Color: '%WHITE%'
+  MaxLevel: 5
+  CompatibleWithProtecting: true
+  CompatibleWithAntiArrow: true
+  CompatibleWithAntiBlast: true
+  Recipe:
+    Enabled: true
+    Top: IMI
+    Middle: MDM
+    Bottom: IMI
+    Materials:
+      D: DIAMOND
+      I: IRON_BLOCK
+      M: MAGMA_BLOCK

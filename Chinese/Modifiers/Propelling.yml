@@ -1,0 +1,17 @@
+Propelling:
+  allowed: true
+  name: 推进
+  name_modifier: 附魔烟火之星
+  modifier_item: FIREWORK_STAR
+  description: 在空中按shift推进你自己.
+  description_modifier: '%WHITE%推进模块, 仅用于鞘翅.'
+  Color: '%GOLD%'
+  MaxLevel: 3
+  EnchantCost: 10
+  Recipe:
+    Enabled: false
+  Elytra:
+    DurabilityLoss: 10
+    SpeedPerLevel: 0.05
+    Sound: true
+    Particles: true

@@ -1,0 +1,12 @@
+Silk-Touch:
+  allowed: true
+  name: 丝绸之触
+  name_modifier: 附魔蜘蛛网
+  modifier_item: COBWEB
+  description: 精准采集!
+  description_modifier: '%WHITE%丝绸之触模块, 适用于采掘工具.'
+  Color: '%WHITE%'
+  MaxLevel: 1
+  EnchantCost: 10
+  Recipe:
+    Enabled: false

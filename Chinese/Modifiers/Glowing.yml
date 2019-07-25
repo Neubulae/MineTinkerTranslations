@@ -1,0 +1,19 @@
+Glowing:
+  allowed: true
+  name: 发光
+  name_modifier: 末影荧石
+  modifier_item: GLOWSTONE
+  description: 让敌人发光吧!
+  description_modifier: '%WHITE%发光模块, 适用于任何武器.'
+  Color: '%YELLOW%'
+  MaxLevel: 3
+  Duration: 200
+  DurationMultiplier: 1.1
+  Recipe:
+    Enabled: true
+    Top: GGG
+    Middle: GEG
+    Bottom: GGG
+    Materials:
+      G: GLOWSTONE_DUST
+      E: ENDER_EYE

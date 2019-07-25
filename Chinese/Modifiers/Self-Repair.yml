@@ -1,0 +1,15 @@
+Self-Repair:
+  allowed: true
+  name: 自我修复
+  name_modifier: 附魔苔石
+  modifier_item: MOSSY_COBBLESTONE
+  description: 使用工具的时候有几率修复其自身!
+  description_modifier: '%WHITE%自我修复模块, 适用于任意模块物品.'
+  Color: '%GREEN%'
+  MaxLevel: 10
+  EnchantCost: 10
+  PercentagePerLevel: 10
+  HealthRepair: 2
+  UseMending: false
+  Recipe:
+    Enabled: false

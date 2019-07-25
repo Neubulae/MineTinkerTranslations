@@ -1,0 +1,16 @@
+Poisonous:
+  allowed: true
+  name: 剧毒
+  name_modifier: 附魔腐肉
+  modifier_item: ROTTEN_FLESH
+  description: 让敌人中毒!
+  description_modifier: '%WHITE%剧毒模块, 适用于胸甲, 护腿和任何武器.'
+  Color: '%DARK_GREEN%'
+  MaxLevel: 5
+  EnchantCost: 10
+  Duration: 120
+  DurationMultiplier: 1.1
+  EffectAmplifier: 2
+  DropRottenMeatIfPoisoned: false
+  Recipe:
+    Enabled: false

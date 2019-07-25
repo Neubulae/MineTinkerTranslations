@@ -1,0 +1,21 @@
+Anti-Blast-Plating:
+  allowed: true
+  name: 抗爆镀层
+  name_modifier: 防爆性能优良的金属
+  modifier_item: IRON_BLOCK
+  description: 护甲将会削弱爆炸造成的伤害!
+  description_modifier: '%WHITE%抗爆镀层模块, 适用于护甲'
+  Color: '%WHITE%'
+  MaxLevel: 5
+  CompatibleWithProtecting: true
+  CompatibleWithInsulating: true
+  CompatibleWithAntiArrow: true
+  Recipe:
+    Enabled: true
+    Top: IMI
+    Middle: MDM
+    Bottom: IMI
+    Materials:
+      D: DIAMOND
+      I: IRON_BLOCK
+      M: TNT

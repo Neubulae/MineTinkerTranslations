@@ -1,0 +1,20 @@
+Lifesteal:
+  allowed: true
+  name: 生命汲取
+  name_modifier: 浸血地狱岩
+  modifier_item: NETHERRACK
+  description: 攻击敌人时可以获得生命值!
+  description_modifier: '%WHITE%生命汲取模块, 适用于任何武器.'
+  Color: '%DARK_RED%'
+  MaxLevel: 3
+  PercentToTrigger: 50
+  PercentOfDamagePerLevel: 10
+  Recipe:
+    Enabled: true
+    Top: SRS
+    Middle: RNR
+    Bottom: SRS
+    Materials:
+      N: NETHERRACK
+      R: ROTTEN_FLESH
+      S: SOUL_SAND

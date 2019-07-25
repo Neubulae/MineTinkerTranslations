@@ -1,0 +1,10 @@
+Experienced:
+  allowed: true
+  name: 经验加成
+  description: 工具将有几率掉落经验! 适用于任意模块物品.
+  Color: '%GREEN%'
+  MaxLevel: 10
+  PercentagePerLevel: 2
+  Amount: 1
+  Recipe:
+    Enabled: false

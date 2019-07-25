@@ -1,0 +1,21 @@
+Soulbound:
+  allowed: true
+  name: 灵魂绑定
+  name_modifier: 蕴能信标
+  modifier_item: BEACON
+  description: 死亡时不掉落装备.
+  description_modifier: '%WHITE%灵魂绑定模块, 适用于任意模块物品.'
+  Color: '%GRAY%'
+  MaxLevel: 1
+  PercentagePerLevel: 100
+  DecrementModLevelOnUse: false
+  ToolDropable: true
+  Recipe:
+    Enabled: true
+    Top: BLB
+    Middle: LNL
+    Bottom: BLB
+    Materials:
+      B: BLAZE_ROD
+      L: LAVA_BUCKET
+      N: NETHER_STAR

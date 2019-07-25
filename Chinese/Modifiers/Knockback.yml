@@ -1,0 +1,12 @@
+Knockback:
+  allowed: true
+  name: 击退
+  name_modifier: 强化TNT
+  modifier_item: TNT
+  description: 将敌人击退得更远!
+  description_modifier: '%WHITE%击退模块, 适用于任何武器.'
+  Color: '%GRAY%'
+  MaxLevel: 5
+  EnchantCost: 10
+  Recipe:
+    Enabled: false

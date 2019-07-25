@@ -1,0 +1,12 @@
+Light-Weight:
+  allowed: true
+  name: 轻量化
+  name_modifier: 附魔羽毛
+  modifier_item: FEATHER
+  description: 让你宛若羽毛一样飘落, 呃, 大概...
+  description_modifier: '%WHITE%轻量化模块, 仅用于靴子.'
+  Color: '%GRAY%'
+  MaxLevel: 3
+  EnchantCost: 10
+  Recipe:
+    Enabled: false
