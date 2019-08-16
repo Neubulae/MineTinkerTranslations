@@ -1,0 +1,22 @@
+Anti-Arrow-Plating:
+  allowed: true
+  name: 抗箭矢镀层
+  name_modifier: 抗穿刺金属
+  modifier_item: IRON_BLOCK
+  description: 护甲将削弱箭矢造成的伤害!
+  description_modifier: '%WHITE%抗箭矢镀层模块, 适用于护甲.'
+  Color: '%WHITE%'
+  EnchantCost: 10
+  MaxLevel: 5
+  CompatibleWithProtecting: false
+  CompatibleWithAntiFire: false
+  CompatibleWithAntiBlast: false
+  Recipe:
+    Enabled: true
+    Top: IAI
+    Middle: ADA
+    Bottom: IAI
+    Materials:
+      A: ARROW
+      D: DIAMOND
+      I: IRON_BLOCK

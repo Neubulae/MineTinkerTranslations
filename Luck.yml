@@ -1,0 +1,17 @@
+Luck:
+  allowed: true
+  name: 好运
+  name_modifier: 压缩青金石快
+  modifier_item: LAPIS_BLOCK
+  description: 让敌人和矿物的掉落物更多!
+  description_modifier: '%WHITE%好运模块, 适用于所有武器与工具.'
+  Color: '%BLUE%'
+  EnchantCost: 10
+  MaxLevel: 3
+  Recipe:
+    Enabled: true
+    Top: LLL
+    Middle: LLL
+    Bottom: LLL
+    Materials:
+      L: LAPIS_BLOCK

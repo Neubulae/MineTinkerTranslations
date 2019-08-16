@@ -1,0 +1,11 @@
+Infinity:
+  allowed: true
+  name: 无限
+  name_modifier: 附魔箭矢
+  modifier_item: ARROW
+  description: 你只需一根箭就能使用弓, 三叉戟也能自动回到手中!
+  description_modifier: '%WHITE%无限模块, 仅用于弓与三叉戟.'
+  Color: '%WHITE%'
+  EnchantCost: 10
+  Recipe:
+    Enabled: false

@@ -1,0 +1,21 @@
+Smite:
+  allowed: true
+  name: 亡灵杀手
+  name_modifier: 圣灵亡骨
+  modifier_item: BONE
+  description: 武器对亡灵生物有伤害加成!
+  description_modifier: '%YELLOW%亡灵杀手模块, 适用于近战类武器.'
+  Color: '%YELLOW%'
+  EnchantCost: 10
+  MaxLevel: 5
+  CompatibleWithSharpness: false
+  CompatibleWithArthropods: false
+  Recipe:
+    Enabled: true
+    Top: BMB
+    Middle: MIM
+    Bottom: BMB
+    Materials:
+      B: BONE
+      I: IRON_INGOT
+      M: BONE_MEAL

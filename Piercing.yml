@@ -1,0 +1,21 @@
+Piercing:
+  allowed: true
+  name: 穿透
+  name_modifier: 钉头箭
+  modifier_item: ARROW
+  description: 穿刺并透过敌人!
+  description_modifier: '%GRAY%穿透模块, 仅用于弩.'
+  Color: '%GRAY%'
+  EnchantCost: 10
+  MaxLevel: 4
+  CompatibleWithMultishot: true
+  Recipe:
+    Enabled: true
+    Top: FIF
+    Middle: OAO
+    Bottom: FIF
+    Materials:
+      A: ARROW
+      F: FLINT
+      I: IRON_INGOT
+      O: OAK_PLANKS

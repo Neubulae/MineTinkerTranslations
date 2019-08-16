@@ -1,0 +1,21 @@
+Spider's-Bane:
+  allowed: true
+  name: 节肢杀手
+  name_modifier: 洁净蜘蛛眼
+  modifier_item: FERMENTED_SPIDER_EYE
+  description: 武器对节肢生物有伤害加成!
+  description_modifier: '%WHITE%节肢杀手模块, 适用于近战类武器.'
+  Color: '%RED%'
+  EnchantCost: 10
+  MaxLevel: 5
+  CompatibleWithSmite: false
+  CompatibleWithSharpness: false
+  Recipe:
+    Enabled: true
+    Top: ESE
+    Middle: SFS
+    Bottom: ESE
+    Materials:
+      S: STRING
+      E: SPIDER_EYE
+      F: FERMENTED_SPIDER_EYE

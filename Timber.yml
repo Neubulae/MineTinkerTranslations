@@ -1,0 +1,18 @@
+Timber:
+  allowed: true
+  name: 伐木
+  name_modifier: 镶木绿宝石
+  modifier_item: EMERALD
+  description: 瞬间伐木!
+  description_modifier: '%WHITE%伐木模块, 仅用于斧头.'
+  Color: '%GREEN%'
+  EnchantCost: 10
+  MaximumBlocksPerSwing: -1
+  Recipe:
+    Enabled: true
+    Top: LLL
+    Middle: LEL
+    Bottom: LLL
+    Materials:
+      E: EMERALD
+      L: OAK_WOOD
