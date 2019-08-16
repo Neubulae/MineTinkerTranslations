@@ -1,0 +1,12 @@
+Fiery:
+  allowed: true
+  name: 炎上
+  name_modifier: 附魔烈焰棒
+  modifier_item: BLAZE_ROD
+  description: 点燃敌人!
+  description_modifier: '%WHITE%爆炎模块, 适用于任何武器(除三叉戟).'
+  Color: '%YELLOW%'
+  MaxLevel: 2
+  EnchantCost: 10
+  Recipe:
+    Enabled: false

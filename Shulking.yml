@@ -1,0 +1,20 @@
+Shulking:
+  allowed: true
+  name: 浮影
+  name_modifier: 强化潜影贝壳
+  modifier_item: SHULKER_SHELL
+  description: 让敌人浮空!
+  description_modifier: '%WHITE%浮影模块, 适用于任意武器, 着装与钓竿.'
+  Color: '%LIGHT_PURPLE%'
+  EnchantCost: 10
+  MaxLevel: 10
+  Duration: 20
+  EffectAmplifier: 2
+  Recipe:
+    Enabled: true
+    Top: S
+    Middle: C
+    Bottom: S
+    Materials:
+      S: SHULKER_SHELL
+      C: CHORUS_FRUIT

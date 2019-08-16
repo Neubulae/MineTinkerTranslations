@@ -1,0 +1,19 @@
+Sharpness:
+  allowed: true
+  name: 锋利
+  name_modifier: 压缩石英块
+  modifier_item: QUARTZ_BLOCK
+  description: 武器将给予更多伤害!
+  description_modifier: '%WHITE%锋利模块, 适用于任意武器.'
+  Color: '%WHITE%'
+  EnchantCost: 10
+  MaxLevel: 5
+  CompatibleWithSmite: false
+  CompatibleWithArthropods: false
+  Recipe:
+    Enabled: true
+    Top: QQQ
+    Middle: QQQ
+    Bottom: QQQ
+    Materials:
+      Q: QUARTZ_BLOCK

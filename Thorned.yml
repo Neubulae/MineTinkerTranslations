@@ -1,0 +1,19 @@
+Thorned:
+  allowed: true
+  name: 荆棘
+  name_modifier: 镶刺镀层
+  modifier_item: VINE
+  description: 你的护甲将反击伤害你的敌人!
+  description_modifier: '%WHITE%荆棘模块, 适用于护甲.'
+  Color: '%DARK_GREEN%'
+  EnchantCost: 10
+  MaxLevel: 3
+  Recipe:
+    Enabled: true
+    Top: VAV
+    Middle: ASA
+    Bottom: VAV
+    Materials:
+      A: ARROW
+      S: SLIME_BALL
+      V: VINE

@@ -1,0 +1,19 @@
+Speedy:
+  allowed: true
+  name: 加速
+  name_modifier: 强化兔子皮
+  modifier_item: RABBIT_HIDE
+  description: 冲冲冲!
+  description_modifier: '%WHITE%加速模块, 仅用于靴子.'
+  Color: '%BLUE%'
+  EnchantCost: 10
+  MaxLevel: 5
+  SpeedPerLevel: 0.01
+  Recipe:
+    Enabled: true
+    Top: R R
+    Middle: ' H '
+    Bottom: R R
+    Materials:
+      R: RABBIT_FOOT
+      H: RABBIT_HIDE

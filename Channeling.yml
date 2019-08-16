@@ -1,0 +1,19 @@
+Channeling:
+  allowed: true
+  name: 引雷
+  name_modifier: 雷霆碎片
+  modifier_item: PRISMARINE_SHARD
+  description: 物品投掷到生物身上的时候将召唤雷电!
+  description_modifier: '%GRAY%引雷模块, 适用于三叉戟.'
+  Color: '%GRAY%'
+  EnchantCost: 10
+  MaxLevel: 1
+  Recipe:
+    Enabled: true
+    Top: SPS
+    Middle: PCP
+    Bottom: SPS
+    Materials:
+      P: PRISMARINE_SHARDS
+      S: SEA_LANTERN
+      C: CREEPER_HEAD

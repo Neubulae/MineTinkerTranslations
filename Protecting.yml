@@ -1,0 +1,19 @@
+Protecting:
+  allowed: true
+  name: 保护
+  name_modifier: 强化黑曜石
+  modifier_item: OBSIDIAN
+  description: 护甲将削弱所有类型的伤害!
+  description_modifier: '%WHITE%保护模块, 适用于护甲.'
+  Color: '%GRAY%'
+  EnchantCost: 10
+  MaxLevel: 5
+  Recipe:
+    Enabled: true
+    Top: DID
+    Middle: IOI
+    Bottom: DID
+    Materials:
+      D: DIAMOND
+      I: IRON_INGOT
+      O: OBSIDIAN

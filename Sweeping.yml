@@ -1,0 +1,12 @@
+Sweeping:
+  allowed: true
+  name: 横扫
+  name_modifier: 附魔铁锭
+  modifier_item: IRON_INGOT
+  description: 横扫覆盖面积更广!
+  description_modifier: '%WHITE%横扫模块, 仅用于剑.'
+  Color: '%RED%'
+  MaxLevel: 5
+  EnchantCost: 10
+  Recipe:
+    Enabled: false

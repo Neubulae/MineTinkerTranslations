@@ -1,0 +1,8 @@
+Extra-Modifier:
+  allowed: true
+  name: 附加模块槽位
+  name_modifier: 下界之星
+  modifier_item: NETHER_STAR
+  description: 增加一个模块槽位!
+  Color: '%WHITE%'
+  ExtraModifierGain: 1

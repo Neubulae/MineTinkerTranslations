@@ -1,0 +1,13 @@
+Beheading:
+  allowed: true
+  name: 斩首
+  name_modifier: 附魔凋灵骷髅头颅
+  modifier_item: WITHER_SKELETON_SKULL
+  description: 有几率斩下生物的头颅!
+  description_modifier: '%WHITE%斩首模块, 适用于任何武器.'
+  Color: '%DARK_GRAY%'
+  MaxLevel: 10
+  PercentagePerLevel: 10
+  EnchantCost: 10
+  Recipe:
+    Enabled: false

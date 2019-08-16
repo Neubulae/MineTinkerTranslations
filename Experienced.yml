@@ -1,0 +1,11 @@
+Experienced:
+  allowed: true
+  name: 经验加成
+  name_modifier: 附魔之瓶
+  description: 使用工具时将有几率掉落更多经验! 适用于任意模块物品.
+  Color: '%GREEN%'
+  MaxLevel: 10
+  PercentagePerLevel: 2
+  Amount: 1
+  Recipe:
+    Enabled: false
